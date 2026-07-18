@@ -33,6 +33,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -53,6 +54,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -68,4 +70,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
