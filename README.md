@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | ------- |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
+| [1260-shift-2d-grid](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -71,9 +72,14 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Geometry
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
