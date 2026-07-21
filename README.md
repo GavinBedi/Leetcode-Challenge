@@ -41,6 +41,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -102,4 +103,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0743-network-delay-time) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
