@@ -35,6 +35,7 @@ Happy Coding! 🚀
 | ------- |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -62,6 +63,7 @@ Happy Coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,4 +119,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
