@@ -58,6 +58,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1260-shift-2d-grid](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1260-shift-2d-grid) |
@@ -69,6 +70,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -76,6 +78,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
 ## Simulation
 |  |
