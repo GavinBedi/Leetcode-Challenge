@@ -43,6 +43,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -144,4 +145,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1331-rank-transform-of-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
