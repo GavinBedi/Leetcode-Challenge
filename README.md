@@ -149,4 +149,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
