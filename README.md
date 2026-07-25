@@ -37,6 +37,7 @@ Happy Coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -85,6 +86,7 @@ Happy Coding! 🚀
 | [0016-3sum-closest](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [3536-maximum-product-of-two-digits](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
