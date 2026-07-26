@@ -46,6 +46,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
