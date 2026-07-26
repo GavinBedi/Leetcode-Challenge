@@ -157,4 +157,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1517-find-users-with-valid-e-mails) |
+| [1683-invalid-tweets](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
