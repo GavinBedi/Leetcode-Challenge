@@ -160,6 +160,7 @@ Happy Coding! 🚀
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0185-department-top-three-salaries) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1341-movie-rating](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1341-movie-rating) |
 | [1517-find-users-with-valid-e-mails](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1517-find-users-with-valid-e-mails) |
