@@ -76,6 +76,7 @@ Happy Coding! 🚀
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1260-shift-2d-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0743-network-delay-time) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
