@@ -50,6 +50,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -97,6 +98,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -170,4 +172,8 @@ Happy Coding! 🚀
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1683-invalid-tweets) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
