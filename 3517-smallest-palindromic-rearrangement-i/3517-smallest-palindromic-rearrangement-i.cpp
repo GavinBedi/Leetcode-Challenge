@@ -8,7 +8,5 @@ public:
        s[l-1-i]=s[i];
        return s;
 
-
-
     }
 };
