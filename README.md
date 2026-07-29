@@ -71,6 +71,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1260-shift-2d-grid](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1260-shift-2d-grid) |
@@ -155,6 +156,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
