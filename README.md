@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
+| [1207-unique-number-of-occurrences](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -162,6 +163,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
