@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -49,6 +50,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -193,4 +195,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
