@@ -9,7 +9,8 @@ public:
         for(auto it:mp)
         freq.push_back(it.second);
 
-        sort(freq.begin(),freq.end(),greater<>());
+        sort(freq.begin(),freq.end());
+        reverse(freq.begin(),freq.end());
         int n=freq.size();
         int s=0;
       for(i=0;i<n;i++)
