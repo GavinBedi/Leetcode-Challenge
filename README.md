@@ -33,6 +33,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -75,6 +76,7 @@ Happy Coding! 🚀
 | [0046-permutations](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0136-single-number) |
+| [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1207-unique-number-of-occurrences](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1207-unique-number-of-occurrences) |
@@ -204,4 +206,16 @@ Happy Coding! 🚀
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
