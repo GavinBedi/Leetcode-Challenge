@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -79,6 +80,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -210,6 +212,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -218,4 +221,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
