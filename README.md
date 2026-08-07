@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0645-set-mismatch) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1207-unique-number-of-occurrences) |
@@ -110,6 +111,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -170,11 +172,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
