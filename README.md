@@ -33,6 +33,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
@@ -230,6 +231,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
