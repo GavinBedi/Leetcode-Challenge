@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -107,6 +108,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -222,12 +224,14 @@ Happy Coding! 🚀
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GavinBedi/Leetcode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
